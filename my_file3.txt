@@ -1,0 +1,10 @@
+Jonson 20356.22
+Smith 19899.10
+Brown 16530.22
+Taylor 22450.00
+Williams 17941.98
+Robinson 21164.43
+Wright 23894.74
+Evans 15674.12
+Green 24289.55
+Roberts 22345.67
